@@ -1,0 +1,31 @@
+html {
+    font-size: 20px;
+    text-align: center;
+}
+
+body {
+    font-family: "Arial","Meiryo",sans-serif;
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2em;
+    letter-spacing: 1.5em;
+    text-shadow: 1px 1px 2px gray;
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+.text-skyblue{
+    color: skyblue;
+}
+
+.text-pink{
+    color: rgb(255, 192, 203);
+}
+
+#futoji p {
+    font-weight: bold;
+  }
+  
+
+      
